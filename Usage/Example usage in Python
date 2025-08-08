@@ -1,0 +1,8 @@
+# Add a task
+add_task("Buy groceries")
+
+# Show tasks
+show_tasks()
+
+# Delete task #1
+delete_task(1)
