@@ -1,0 +1,4 @@
+todo-list-python/
+├── README.md    # Documentation
+├── todo.py      # Main script
+└── tasks.txt    # Auto-generated task storage
